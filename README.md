@@ -42,7 +42,7 @@ A criação do modelo digital permite analisar dimensões, encaixes, movimentaç
 
 ###  Modelo 3D
 
-![Projeto 3D](./Fotos/Biosuporte_01.png)
+![Projeto 3D](./Fotos/BioSuporte_01.png)
 
 > **Modelo 3D desenvolvido pela equipe para o projeto BioGlow 2026.**
 
