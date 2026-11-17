@@ -18,7 +18,7 @@ A temporada BioGlow incentiva os participantes a **pesquisar, experimentar, cons
 
 ---
 
-## 🍃 Por que a natureza é importante?
+##  Por que a natureza é importante?
 
 A natureza não é apenas o ambiente ao nosso redor. Ela faz parte da estrutura que sustenta a vida.
 
@@ -32,7 +32,7 @@ Além disso, a natureza pode ser uma fonte de inspiração para a inovação. Ao
 
 ---
 
-# 🔧 Projeto 3D
+# Projeto 3D
 
 ## Desenvolvimento e modelagem
 
@@ -40,7 +40,7 @@ Durante o desenvolvimento do projeto, a equipe utilizou **modelagem 3D** para vi
 
 A criação do modelo digital permite analisar dimensões, encaixes, movimentação e funcionamento antes da construção física, tornando o processo de desenvolvimento mais preciso e eficiente.
 
-### 🖥️ Modelo 3D
+###  Modelo 3D
 
 ![Projeto 3D](./Fotos/projeto-3d.png)
 
@@ -50,7 +50,7 @@ O modelo representa uma estrutura desenvolvida para atender às necessidades ide
 
 ---
 
-## 📸 Registro do desenvolvimento
+##  Registro do desenvolvimento
 
 Este repositório também reúne fotos e registros das etapas de desenvolvimento do projeto, desde os primeiros conceitos até os protótipos e resultados finais.
 
@@ -65,7 +65,7 @@ Este repositório também reúne fotos e registros das etapas de desenvolvimento
 
 ---
 
-## 💡 Da ideia ao protótipo
+##  Da ideia ao protótipo
 
 O desenvolvimento de um projeto não acontece em uma única etapa.
 
@@ -77,7 +77,7 @@ Na temporada **BioGlow 2026**, esse processo representa uma parte importante da 
 
 ---
 
-## 🤖 FIRST LEGO League
+##  FIRST LEGO League
 
 A **FIRST LEGO League** combina robótica, pesquisa, criatividade, trabalho em equipe e resolução de problemas.
 
